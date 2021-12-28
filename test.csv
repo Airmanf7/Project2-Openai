@@ -1,7 +1,0 @@
-,id,object,created,model,choices
-0,cmpl-4FvtLT0rbYrl86RqIENG2pcoJFn1E,text_completion,1639702803,davinci:2020-05-03,"{
-  ""finish_reason"": ""length"",
-  ""index"": 0,
-  ""logprobs"": null,
-  ""text"": "" {\""0\"":\""The tweetstorm began when Zhao said in a tweet that Binance would limit withdrawals of dogecoin, which is a meme-based cryptocurrency that has been used in a variety of online pranks.\\n\\ntl;dr:\""} {\""0\"":\""Musk responded by saying""
-}"
