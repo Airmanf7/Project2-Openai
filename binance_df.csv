@@ -1,0 +1,29 @@
+,description,sentiment,confidence,sentiment_numerical,weighted_sentiment
+0,"The Singapore affiliate of Binance, one of the world's largest cryptocurrency exchanges, said in a statement on Monday it will withdraw its local license application and wind down its digital payment token business in the city-state.",NEGATIVE,0.9996211528778076,-1.0,-0.0553502621949715
+1,"Yi He, a cofounder of the cryptocurrency exchange Binance Capital Management Co. Ltd, has a little joke in her <a href=""https://twitter.com/heyibinance"" target=""_blank"">Twitter bio</a>: She lists her location as Mars. Binance’s chief growth officer, Ted Lin, …",NEGATIVE,0.9953395128250122,-1.0,-0.05511318247845645
+2,"Cryptocurrency exchange Binance on Tuesday said it has signed a cooperation agreement with Dubai World Trade Centre Authority (DWTCA), which is working to establish an international virtual asset ecosystem.",POSITIVE,0.5366029739379883,1.0,0.02971237174859958
+3,"Binance's relations with the FCA have improved ever since its UK-based marketplace was banned from conducting regulated activity in June, Zhao said.",POSITIVE,0.9162372350692749,1.0,0.05073319131741034
+4,Alethea AI and BeingAI are collaborating with the Binance NFT marketplace to introduce the AI game characters that are based on NFTs.,POSITIVE,0.9874264001846313,1.0,0.05467502362381188
+5,"""We have identified a large-scale security breach..."" the official announcement begins. 
+
+CNBC reports:
+
+Hackers have taken $196 million from crypto trading platform BitMart, a security firm said Saturday. 
+
+BitMart confirmed the hack in an official statement…",NEGATIVE,0.9994663596153259,-1.0,-0.05534169110017253
+6,"""Will mongoose coin always have a value?"" Sherman said at the hearing. ""I don't know. I just made it up. It's a joke.""",NEGATIVE,0.9997627139091492,-1.0,-0.05535810060473183
+7,"Football clubs have potentially made hundreds of millions of dollars selling controversial crypto ""fan tokens."" From a report: Analysis commissioned by BBC News estimates more than $350m has been spent on the virtual currencies. Some of the tokens are markete…",NEGATIVE,0.9808160662651062,-1.0,-0.05430900124164371
+8,"The wait is finally over. After a year-long delay, Xbox’s iconic hero, Master Chief, is back. With Halo Infinite, there are new toys and fight mechanics, while many players will also benefit from major cosmetic upgrades if they’re playing on the newest Micros…",POSITIVE,0.6216670870780945,1.0,0.03442247712415393
+9,"Coinbase Global Inc <a href=""https://www.reuters.com/companies/COIN.O"" target=""_blank"">(COIN.O)</a> said on a <a href=""https://twitter.com/CoinbaseSupport/status/1471017964225048576"" target=""_blank"">Twitter post</a> on Wednesday it has resolved the connectivi…",NEGATIVE,0.8619192242622375,-1.0,-0.04772553573566984
+10,Binance is the largest cryptocurrency exchange in the world. What's the difference between its Lite and Professional versions?,POSITIVE,0.9982921481132507,1.0,0.05527667355395004
+11,"Blockchain analytics firm Nansen on Thursday raised $75 million in an early stage funding round led by venture capital firm Accel, with participation from Andreessen Horowitz and technology investor Tiger Global.",POSITIVE,0.7396576404571533,1.0,0.04095576030574643
+12,Here are some factors that may affect Middle East stock markets on Tuesday. Reuters has not verified the press reports and does not vouch for their accuracy.,NEGATIVE,0.9994114637374878,-1.0,-0.05533865144737705
+13,The cryptocurrency trading platform is suspending withdrawals until further notice.,NEGATIVE,0.9967527985572815,-1.0,-0.05519143786112049
+14,"Sheldon Xia, the founder of BitMart exchange, said on Twitter withdrawals would be resumed ""step by step"".",NEGATIVE,0.9995379447937012,-1.0,-0.055345654860223956
+15,Here are some factors that may affect Middle East stock markets on Wednesday. Reuters has not verified the press reports and does not vouch for their accuracy.,NEGATIVE,0.999438464641571,-1.0,-0.05534014652090186
+16,The cybercriminals used a private key to access two of the company's Hot Wallets.,NEGATIVE,0.8536167740821838,-1.0,-0.04726581877889708
+17,"Helen Partz / Cointelegraph:
+Multichain, which offers interoperability tools for blockchains including Ethereum, Binance Smart Chain, and Avalanche, raises a $60M seed led by Binance Labs  —  Shortly after rebranding from Anyswap last week, Multichain raised …",NEGATIVE,0.6307727694511414,-1.0,-0.03492667004300254
+18,"People investing in the cryptocurrency should be aware of risks, central bank saysThe Bank of England has said that bitcoin could be “worthless” and people investing in the digital currency should be prepared to lose everything.In a warning over the potential…",NEGATIVE,0.9998283386230469,-1.0,-0.05536173432647756
+19,"If you’re looking for last-minute gift ideas, giving the gift of crypto is a lot easier than you might think. 
+Looking for a holiday present that won’t fall victim to any supply-chain snafus? If so, there’s always crypto.Read Full Story",POSITIVE,0.9437501430511475,1.0,0.05225661513268141
